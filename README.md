@@ -24,7 +24,7 @@
 ### ลิงก์
 
 - **Clip Demo VDO:** [ดูคลิปบน Google Drive](https://drive.google.com/file/d/14knlkG4zcpGbKzxSQCSyQpvcqndaNKEH/view?usp=sharing)
-- **Play Game (GitHub Pages):** [เล่นเกม](https://ppppppwaqrd.github.io/lab04-a-mothers-walk/)
+- **Play Game (GitHub Pages):** [เล่นเกม]([https://ppppppwaqrd.github.io/lab04-a-mothers-walk/](https://ppppppwaqrd.github.io/lab04-a-mothers-walk/))
 - **GitHub Project:** [ppppppwaqrd/lab04-a-mothers-walk](https://github.com/ppppppwaqrd/lab04-a-mothers-walk)
 
 ---
